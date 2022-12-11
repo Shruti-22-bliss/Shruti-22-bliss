@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>I'm Shruti Rawat</h1>
-<h3 align="center">I'm a data enthusiast and an aspiring Machine Learning Engineer. Pursuing my BSc Data Science from Thakur College of Science and Commerce</h3>
+<h3 align="center">I'm a data enthusiast and an aspiring Machine Learning Engineer. Pursuing BSc Data Science </h3>
 <img align = "right" alt = "coding" width ="500" src ="https://miro.medium.com/max/1400/0*vXvPD3nO-uW1mc1Z.gif"
 
 <p align="left"> <a href="https://twitter.com/shruti91748177" target="blank"><img src="https://img.shields.io/twitter/follow/shruti91748177?logo=twitter&style=for-the-badge" alt="shruti91748177" /></a> </p>
