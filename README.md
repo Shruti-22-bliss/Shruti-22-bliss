@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyy there 👋
 
 <h1>I'm Shruti Rawat</h1>
 <h3 align="center">I'm a data enthusiast and an aspiring Machine Learning Engineer. Pursuing BSc Data Science </h3>
