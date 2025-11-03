@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/shruti91748177" target="blank"><img src="https://img.shields.io/twitter/follow/shruti91748177?logo=twitter&style=for-the-badge" alt="shruti91748177" /></a> </p>
 
-- 🔭 Experience **Data Analyst Intern at SuccessR HR Tech Pvt Ltd**
+- 🔭 Experience **Data Engineer at Mrotek Public Ltd**
 
-- 🌱 I’m currently learning **Data Structure & Algorithm , Web Development**
+- 🌱 I’m currently learning **Agentic AI, MCP & LLM Model Integration**
 
 - 👯 I’m looking to collaborate on **Data Science , Machine Learning and Deep learning Project**
 
